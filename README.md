@@ -1,11 +1,16 @@
 # Kaggle-Titanic-Survival-Prediction
 
-This is a Machine Learning "Competition" on Kaggle. It's recommended you begin your journey on the website from here. [Here is the link to it](https://www.kaggle.com/c/titanic) <br><br>
-Please leave a star :star: on this repository if you find it useful.<br><br>Acompanying the code is some markup that should help you understand every bit of code and visualisations.<br>
+This is a Machine Learning "Competition" on **Kaggle**. It's recommended you begin your journey on the website from here. [Here is the link to it](https://www.kaggle.com/c/titanic) <br><br>
+
+Here is the [link to my solution](https://www.kaggle.com/anujpr/titanic-survival-prediction) on Kaggle.<br>
+
+# Please leave a star :star: on this repository and on the Kaggle notebook, if you find it useful.<br><br>
+
+Acompanying the code is some markup that should help you understand every bit of code and visualisations.<br>
 
 Titanic is the famous ship that got wrecked back in 1912. We have the training set consisting of 891 entries and the test set consisiting of 418 entries of passengers data. We got to use this data to find out if the passengers survived or not.<br>
 
-How do we do that :grey_question:
+# How do we do that :grey_question:
 
 The dataset consists of:
 
